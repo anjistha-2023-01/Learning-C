@@ -1,0 +1,11 @@
+Printing a number
+In the last problem we saw how to print a number. Now it's your turn to print another number.
+
+#include <stdio.h>
+
+int main() {
+  
+  // Delete __ (underscore) and add 20 at it's place
+  printf("%d", __);
+  return 0;
+}
